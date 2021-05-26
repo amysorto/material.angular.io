@@ -92,6 +92,7 @@ const testDependencies = {
   '@angular/platform-browser-dynamic': angularVersion,
   '@angular/router': angularVersion,
   '@types/jasmine': '^3.6.6',
+  '@types/jasmine-core': '^3.6.0',
   'jasmine-core': '^3.6.0',
   'moment': '^2.29.1',
   'rxjs': '^6.6.7',
